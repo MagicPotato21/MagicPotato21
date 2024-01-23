@@ -1,4 +1,4 @@
-### Hi there 👋, I'm MagicPotato21!
+### Hi there 👋, I'm Chris Hodges!
 
 ![Trophy](https://github-profile-trophy.vercel.app/?username=MagicPotato21)
 
@@ -31,6 +31,6 @@ Welcome to my world of coding! I'm a passionate Full Stack Developer who loves t
 
 ⚡ **Fun fact:** When I'm not coding, I'm probably exploring new marketing strategies or diving into the analytics of user engagement.
 
-**MagicPotato21/MagicPotato21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on my GitHub profile.
+**Chris Hodges/Chris Hodges** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on my GitHub profile.
 
 Let's connect and build something amazing together!
